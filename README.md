@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+Siempre trabajando para brindarle el mejor servicio posible a mis clientes! 
+
+Conectate conmigo: https://www.linkedin.com/in/oscarmuller/
 <!--
 **oscarmuller/oscarmuller** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
