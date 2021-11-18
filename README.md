@@ -1,8 +1,11 @@
-### Hi there 👋
+### ¡Hola! 👋
 
-Siempre trabajando para brindarle el mejor servicio posible a mis clientes! 
+¡Soy Oscar Muller, gracias por visitar mi cuenta! 
+
+Estoy disponible para cualquier duda sobre Github, Git, o lo que sea para brindarte un mejor servicio.
 
 Conectate conmigo: https://www.linkedin.com/in/oscarmuller/
+
 <!--
 **oscarmuller/oscarmuller** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
