@@ -1,8 +1,8 @@
-### ¡Hola! 👋
+# ¡Hola! 👋
 
-¡Soy Oscar Muller, gracias por visitar mi cuenta! 
+## ¡Soy Oscar Muller, gracias por visitar mi cuenta! 
 
-Estoy disponible para cualquier duda sobre Github, Git, o lo que sea necesario para brindarte un mejor servicio.
+Mi prioridad numero uno es brindarte una excelente experiencia con el flujo de codigo dentro de tu empresa, y a la vez hacerlo de una forma segura y eficaz. 
 
 Conectate conmigo: https://www.linkedin.com/in/oscarmuller/
 
