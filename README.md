@@ -1,6 +1,6 @@
 # ¡Hola! 👋
 
-## ¡Soy Oscar Muller, gracias por visitar mi cuenta! 
+¡Soy Oscar Muller, gracias por visitar mi cuenta! 
 
 Mi prioridad numero uno es brindarte una excelente experiencia con el flujo de codigo dentro de tu empresa, y a la vez hacerlo de una forma segura y eficaz. 
 
