@@ -2,7 +2,7 @@
 
 ¡Soy Oscar Muller, gracias por visitar mi cuenta! 
 
-Estoy disponible para cualquier duda sobre Github, Git, o lo que sea para brindarte un mejor servicio.
+Estoy disponible para cualquier duda sobre Github, Git, o lo que sea necesario para brindarte un mejor servicio.
 
 Conectate conmigo: https://www.linkedin.com/in/oscarmuller/
 
