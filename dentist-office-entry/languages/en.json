@@ -1,0 +1,9 @@
+{
+    "title": "Dentist Office Entry",
+    "fullName": "Full Name:",
+    "address": "Address:",
+    "insuranceInfo": "Medical Insurance Information:",
+    "phoneNumber": "Phone Number:",
+    "submit": "Submit",
+    "languageBtn": "Español"
+}

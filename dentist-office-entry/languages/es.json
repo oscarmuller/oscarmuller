@@ -1,0 +1,9 @@
+{
+    "title": "Ingreso a la Oficina del Dentista",
+    "fullName": "Nombre Completo:",
+    "address": "Domicilio:",
+    "insuranceInfo": "Información de Seguro Médico:",
+    "phoneNumber": "Número de Teléfono:",
+    "submit": "Enviar",
+    "languageBtn": "English"
+}
